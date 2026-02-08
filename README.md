@@ -95,5 +95,5 @@ This project addresses those limitations by:
 
 ## 👨‍💻 Author
 
-**Arzaan Mulla**
+**Arzaan Mulla**<br>
 **Swapnil Pal**
