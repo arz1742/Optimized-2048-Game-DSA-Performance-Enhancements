@@ -92,7 +92,9 @@ This project addresses those limitations by:
 - Designing adaptive game mechanics
 
 ---
-
+## 📚 References
+- Original 2048 implementation inspiration: https://youtu.be/4NFZwPhqeRs
+---
 ## 👨‍💻 Author
 
 **Arzaan Mulla**<br>
