@@ -1,4 +1,3 @@
-
 # 🎮 Optimized 2048 Game – Performance & Gameplay Enhancements
 
 An **enhanced version of the classic 2048 game**, focused on **algorithmic optimization, memory efficiency, and dynamic gameplay mechanics**.  
